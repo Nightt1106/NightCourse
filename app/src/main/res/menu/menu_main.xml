@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.night.nightcourse.MainActivity">
+    <item
+        android:id="@+id/action_app_info"
+        android:orderInCategory="101"
+        android:title="@string/action_app_info" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="102"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

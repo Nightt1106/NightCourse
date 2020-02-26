@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NightCourse</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_app_info">Information</string>
+    <string name="button_let_star">Let\'s star</string>
+    <string name="title_activity_animal_detail">AnimalDetailActivity</string>
+
+</resources>
